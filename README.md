@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Bozemba11/Bozemba11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Carlos Peter 👋
+### Full Stack Developer • AI & Automation Specialist • Network Engineer
+📍 Dar es Salaam, Tanzania 🇹🇿
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=AI+%26+Automation+Specialist;Full+Stack+Developer;Networks+%2B+Systems+Engineer;Open+to+opportunities" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 💜 About Me
+I'm a Computer Systems and Networking Engineer who combines
+**AI and automation**, **full-stack development** and **network infrastructure**.
+I build systems that remove repetitive work and solve real problems for real people.
+
+- 🤖 Automating workflows and data collection with **n8n** and **Apify**
+- 🔭 Building **CanaanQuest**, a safari management platform
+- 🛠️ Built **Lost & Found** and **EduBoard** (my final year project)
+- 🌐 Hands-on with Cisco IOS, MikroTik RouterOS, Linux and Odoo ERP
+- 📫 Reach me: petercarlos897@gmail.com
